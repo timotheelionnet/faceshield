@@ -3,7 +3,7 @@
 3D printing models for faceshields built at NYU for NYU Langone Health
 These models are based on the budmen design  https://budmen.com/ with modifications 
 for comfort and durability based on NYU Langone Health ICU and Emergency Medicine staff.
-Design by Mihály Vöröslakos, Neta Agmon and Timothee Lionnet based on the budmen model.
+Design Team: Mihály Vöröslakos, Neta Agmon, Benjamin King and Timothee Lionnet based on the budmen model.
 
 Assembly requires:
 - 1 3D printed shield holder (shield_holder_nyu)
