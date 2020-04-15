@@ -21,6 +21,9 @@ Instructions:
 - cut desired length of elastic band and tighten using the strap lock.
 - wipe assembly with Isopropyl Rubbing Alcohol 70% Wipe.
 
+Detailed Materials and Assembly Instructions are available in pdf format:
+Reusable  Face Shield Assembly NYU 204_13_20.pdf
+
 Contact/Affiliations:
 
 Benjamin King, PhD & Timothee Lionnet, PhD
